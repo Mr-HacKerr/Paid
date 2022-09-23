@@ -8,4 +8,4 @@ pip install bs4<br>
 pip install futures<br>
 git clone https://github.com/Mr-HacKerr/Paid.git<br>
 cd Paid<br>
-python paid.py<br>
+python Run.py<br>
